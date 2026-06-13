@@ -52,15 +52,15 @@ This project helps me learn:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/daniela-huerfano/" target="_blank">
+<a href="https://www.linkedin.com/in/daniela-huerfano/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:daniela-huerfanov@universidad.edu.co">
+<a href="mailto:daniela-huerfanov@unilibre.edu.co">
   <img src="https://img.icons8.com/doodle/40/gmail-new.png" alt="Correo Institucional"/>
 </a>
 
-<a href="https://wa.me/57TU_3125386354" target="_blank">
+<a href="https://wa.me/573125386354?text=Hola%20Daniela,%20vi%20tu%20perfil%20en%20GitHub" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/doodle/40/whatsapp.png" alt="WhatsApp"/>
 </a>
 
@@ -69,6 +69,8 @@ This project helps me learn:
 </a>
 
 </div>
+
+
 
 ---
 💜 Thanks for stopping by and exploring my learning journey.
