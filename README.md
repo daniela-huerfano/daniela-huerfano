@@ -1,10 +1,12 @@
-![Daniela Huérfano Banner](./assets/banner.png)
+![image alt](https://github.com/daniela-huerfano/daniela-huerfano/blob/64f2874e1027137dcbb4cf5ad0efeef9e9e8a136/daniela.h.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Daniela</h2>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛s! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Daniela -->
 
-### 👨🏻‍💻 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 💡 &nbsp;I am improving my knowledge in software development, frontend, databases, and computer networks through academic and personal projects.\
 🎓 &nbsp;I like learning how technology can help solve real problems and create better experiences for users.\
@@ -14,7 +16,7 @@
 ✉️ &nbsp;I am building my professional portfolio and improving my skills through continuous practice.\
 📄 &nbsp;I have worked with Git and GitHub, Python, Java, C++, databases, UML modeling, Cisco Packet Tracer, IP addressing, routers, switches, and interface design.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Unicorn" width =200px src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,23 +46,29 @@ This project helps me learn:
 - System Analysis
 - User Experience (UI/UX)
 - Project Documentation
+<br/>
 
-  ### 🤝🏻 &nbsp;Contact Me
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:daniela-huerfanov@unilibre.edu.co">
-<img src="https://img.shields.io/badge/Institutional_Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/daniela-huerfano/" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/linkedin--v2.png" alt="LinkedIn"/>
 </a>
 
-<a href="https://wa.me/573125386354">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+<a href="mailto:daniela-huerfanov@universidad.edu.co">
+  <img src="https://img.icons8.com/doodle/40/gmail-new.png" alt="Correo Institucional"/>
+</a>
+
+<a href="https://wa.me/57TU_3125386354" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/whatsapp.png" alt="WhatsApp"/>
 </a>
 
 <a href="mailto:d.huerfano88@gmail.com">
-<img src="https://img.shields.io/badge/Personal_Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.icons8.com/doodle/40/gmail-new.png" alt="Correo Personal"/>
 </a>
-</p>
+
+</div>
 
 ---
 💜 Thanks for stopping by and exploring my learning journey.
